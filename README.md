@@ -26,7 +26,7 @@ Jupyter Notebook , Python
 
 • Libraries:
 
-Pandas , Numpy, Matplotlibe, Seaborn , Sklearn, wordCloud, nltk, re 
+Pandas , Numpy, Matplotlibe, Seaborn , Sklearn, wordCloud, nltk, re, Tweepy
                  
 ## **Algorithms:**
 
